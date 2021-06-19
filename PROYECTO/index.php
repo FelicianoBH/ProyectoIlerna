@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>ARNET</title>  
+	<title>ARNET</title> 
+	<p> Parrafo agregado</p>
 	<link rel="stylesheet" href="normalize.css">
 	<link rel="shortcut icon" type="image/png" href="arnetico.png">
 	<style type="text/css">
